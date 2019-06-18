@@ -1,0 +1,3 @@
+ms8WxAFcDjVv12xNPSkH
+
+mdbreact": "git+https://oauth2:ms8WxAFcDjVv12xNPSkH@git.mdbootstrap.com/mdb/react/re-pro.git

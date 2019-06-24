@@ -6,7 +6,7 @@
     "mdbreact": "git+https://oauth2:eqYY8aCoJtiGDRaFvuDE@git.mdbootstrap.com/mdb/react/re-pro.git",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-router-dom": "^5.0.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
     "wow.js": "^1.2.2"
   },
